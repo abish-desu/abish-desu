@@ -1,3 +1,8 @@
 ## Hi there 👋
 
-![Logo](./images/tom.png)
+<img
+alt="work"
+width="400px"
+src="./image/tom.png"
+> 
+</img>
