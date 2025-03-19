@@ -1,8 +1,1 @@
-## Hi there 👋
-
-<img
-alt="work"
-width="400px"
-src="./image/tom.png"
-> 
-</img>
+<img src="./image/tom.png" alt="Work" width="400px">
